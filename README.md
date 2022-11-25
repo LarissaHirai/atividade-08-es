@@ -16,7 +16,6 @@ Aluna: Larissa Mitie Curi Hirai
     - Teste de usabilidade
     - Teste de Requisitos
     - Teste da caixa cinza
-    - Teste de regreção (Não tem, pois só existe uma versão da aplicação)
 
 ## Resultado dos testes:
 ### Teste de unidade
